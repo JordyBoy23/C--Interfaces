@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jordan Liddell\\OneDrive - student.peterborough.ac.uk\\Peterborough - University\\Year 2\\Semester 1\\Object Oriented Programming - Jamie\\Week 6\\C--Interfaces\\Employee\\Employee.csproj",
-      "projectName": "Employee",
-      "projectPath": "C:\\Users\\Jordan Liddell\\OneDrive - student.peterborough.ac.uk\\Peterborough - University\\Year 2\\Semester 1\\Object Oriented Programming - Jamie\\Week 6\\C--Interfaces\\Employee\\Employee.csproj",
+      "projectUniqueName": "C:\\Users\\Jordan Liddell\\OneDrive - student.peterborough.ac.uk\\Peterborough - University\\Year 2\\Semester 1\\Object Oriented Programming - Jamie\\Week 6\\C--Interfaces\\DiamondProblem\\DiamondProblem.csproj",
+      "projectName": "DiamondProblem",
+      "projectPath": "C:\\Users\\Jordan Liddell\\OneDrive - student.peterborough.ac.uk\\Peterborough - University\\Year 2\\Semester 1\\Object Oriented Programming - Jamie\\Week 6\\C--Interfaces\\DiamondProblem\\DiamondProblem.csproj",
       "packagesPath": "C:\\Users\\Jordan Liddell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jordan Liddell\\OneDrive - student.peterborough.ac.uk\\Peterborough - University\\Year 2\\Semester 1\\Object Oriented Programming - Jamie\\Week 6\\C--Interfaces\\Employee\\obj\\",
+      "outputPath": "C:\\Users\\Jordan Liddell\\OneDrive - student.peterborough.ac.uk\\Peterborough - University\\Year 2\\Semester 1\\Object Oriented Programming - Jamie\\Week 6\\C--Interfaces\\DiamondProblem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
