@@ -1,0 +1,13 @@
+the diamond problem, that's why C# doesn't allow multiple inheritance. 
+
+
+How does C# use interface?
+
+An interface contains definitions for a group of related functionalities that a class or a struct can implement. 
+Guarantee that a given set of methods will be implemented; it avoids cornering itself on how code will be implemented. 
+
+
+How do interfaces help avoid the diamond problem?
+
+C# makes it not a problem as all a class needs to do is provide an implementation for the method so that the code 
+can be written to call that method.
